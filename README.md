@@ -1,7 +1,6 @@
+![image](https://github.com/user-attachments/assets/8cc1dfca-01cc-4542-850e-9948a35b542b)
 # Emoji Matching Sentiment Analysis
 An individual output for Computer Vision and Image Processing. The application takes text as input and associates it with an emoji based on the sentiment analysis conducted.
-![image](https://github.com/user-attachments/assets/8cc1dfca-01cc-4542-850e-9948a35b542b)
-
 
 ## Getting Started
 * To set up the environment for our project, you need to install the following dependencies:
