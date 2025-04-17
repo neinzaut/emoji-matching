@@ -9,4 +9,4 @@ pip install nltk
 pip install emoji
 pip install Flask
 ```
-Once installed, run **app.py** and click the link shown in the terminal. This will open ```http://127.0.0.1:5000/``` in your default browser.
+* Once installed, run **app.py** and click the link shown in the terminal. This will open ```http://127.0.0.1:5000/``` in your default browser.
